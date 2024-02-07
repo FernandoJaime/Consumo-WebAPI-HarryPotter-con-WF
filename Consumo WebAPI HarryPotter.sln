@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "View", "View\View.csproj", "{F0CDC343-5F4E-4587-A05C-F7121953B9DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{9B2F8524-2D19-408F-828E-4CA40A1C8010}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controller", "Controller\Controller.csproj", "{8668A21D-6433-4850-B145-270A0FDD2F8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0CDC343-5F4E-4587-A05C-F7121953B9DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0CDC343-5F4E-4587-A05C-F7121953B9DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0CDC343-5F4E-4587-A05C-F7121953B9DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0CDC343-5F4E-4587-A05C-F7121953B9DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B2F8524-2D19-408F-828E-4CA40A1C8010}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B2F8524-2D19-408F-828E-4CA40A1C8010}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B2F8524-2D19-408F-828E-4CA40A1C8010}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B2F8524-2D19-408F-828E-4CA40A1C8010}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8668A21D-6433-4850-B145-270A0FDD2F8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8668A21D-6433-4850-B145-270A0FDD2F8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8668A21D-6433-4850-B145-270A0FDD2F8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8668A21D-6433-4850-B145-270A0FDD2F8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D489C511-2FD7-4B17-A3A9-E296E673DC7E}
+	EndGlobalSection
+EndGlobal
